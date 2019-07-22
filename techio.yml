@@ -1,4 +1,4 @@
-title: Custom Template
+title: BrainFuck part 6 - 16-bit integers
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
@@ -10,3 +10,6 @@ plan:
   statement: markdowns/inc_dec.md
 - title: Sample (Fibonacci)
   statement: markdowns/sample.md
+- title: Be smart
+  statement: markdowns/smart.md
+
