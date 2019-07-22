@@ -23,7 +23,7 @@ _Note: in one case it's decrease C, in the other case it's store 255 instead of 
 
 |Operation|8-bit version|16-bit version|Comments|
 |---------|-------------|--------------|--------|
-|Increase|+|<+>+[<-]<[->>+<<<]>>]|Increase C, if null increase D|
+|Increase|+|<+>+[<-]<[->>+<<<]>>|Increase C, if null increase D|
 |Decrease|-|<+>[<-]<[->>-<<<]>>-|If C null decrease D; decrease C|
 
 
@@ -35,6 +35,6 @@ _Note: in one case it's decrease C, in the other case it's store 255 instead of 
 |Read|,|,>[-]<|read C and reset D|
 |Move left|<|<<<<|Move 4 times|
 |Move right|>|>>>>|Move 4 times|
-|Increase|+|<+>+[<-]<[->>+<<<]>>]|Increase C, if null increase D|
+|Increase|+|<+>+[<-]<[->>+<<<]>>|Increase C, if null increase D|
 |Decrease|-|<+>[<-]<[->>-<<<]>>-|If C null decrease D; decrease C|
 
