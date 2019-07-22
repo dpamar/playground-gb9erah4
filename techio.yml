@@ -4,4 +4,8 @@ plan:
   statement: markdowns/welcome.md
 - title: I/O
   statement: markdowns/io.md
+- title: Moves
+  statement: markdowns/move.md
+- title: Inc/Dec
+  statement: markdowns/inc_dec.md
 

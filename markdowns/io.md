@@ -1,4 +1,4 @@
-# I/O oeprations
+# I/O operations
 
 _Reminder : N = [ABCD] with A=B=0 and N = 256*D + C, with cursor on C_
 
