@@ -29,3 +29,5 @@ Let's defined instead a 4-cell-long structure, ABCD, with
 * C and D so that N = D * 256 + C
 
 Using this new structure, let's define other operations.
+
+_Note: having cursor on N now means "having cursor on C"_
