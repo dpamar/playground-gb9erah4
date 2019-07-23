@@ -7,7 +7,7 @@ The different steps will be
 * define an overriden version of 
   * , and .
   * < and >
-  * + and -
+  * \+ and -
   * [ and ]
 * try a sample code (Fibonacci sequence)
 * find a way to mix 8 and 16-bit integers (to improve performance)
