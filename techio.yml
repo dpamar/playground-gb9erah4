@@ -8,6 +8,8 @@ plan:
   statement: markdowns/move.md
 - title: Inc/Dec
   statement: markdowns/inc_dec.md
+- title: Loops
+  statement: markdowns/loop.md
 - title: Sample (Fibonacci)
   statement: markdowns/sample.md
 - title: Be smart
